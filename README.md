@@ -6,9 +6,9 @@ Starway Flight is a 3D space arcade game built with Python and Tkinter. Steer th
 
 ## 安装与启动 / Install and run
 
-登录有权限的 GitHub 账号，在仓库中选择 **Code → Download ZIP**，然后解压。游戏需要 Python 3.10 或更高版本和 Tcl/Tk。
+在仓库中选择 **Code → Download ZIP** 下载源码，然后解压。游戏需要 Python 3.10 或更高版本和 Tcl/Tk。
 
-Sign in with a GitHub account that can access the repository. Choose **Code → Download ZIP** and extract it. The game requires Python 3.10 or later with Tcl/Tk.
+Choose **Code → Download ZIP** and extract the source archive. The game requires Python 3.10 or later with Tcl/Tk.
 
 ### Windows
 
